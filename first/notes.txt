@@ -1,0 +1,3 @@
+Typescript is  a development enhancer tool used to write code which are error free that makes development easier. We install typescript as a dev dependency by:- npm i typescript --save-dev
+whereas globally in the local system we do:- npm i -g typescript
+after installation if we run the command "tsc" it would show us the commands available for typescript in the given project
