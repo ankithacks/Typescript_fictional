@@ -1,0 +1,2 @@
+tsc --init will setup the first tsconfig.json file for the project environment
+npm init -y
