@@ -1,2 +1,5 @@
 tsc --init will setup the first tsconfig.json file for the project environment
 npm init -y
+
+run--> npm start ==> to start the development server based on lite server
+and tsc -w  ==> to start the watch in the projectr file as well as compile the typescript file!
